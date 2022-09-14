@@ -1,4 +1,4 @@
-# 💎 X2 Deltas
+# 💎 Deltas
 
 A library for applying and manipulating MongoDB style queries and deltas purely
 in JavaScript.
