@@ -1,5 +1,5 @@
 {
-  "name": "@exactpayments/x2-deltas",
+  "name": "deltas",
   "version": "2.4.0",
   "repository": "git@github.com:fintechdev/X2-Libraries",
   "author": "X2 Dev Team <it@exactpay.com>",
